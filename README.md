@@ -1,5 +1,5 @@
 # Q-WINC
-A repository for the quick ui window creator module in roadblocks, since they've practically unobtainable after the markerplace distribution changes update
+A repository for the quick ui window creator module in roadblocks
 
 # Qredits
 - `@Fraktality` on GitHub for the "neon" module, for which I have modified to fit to the form factor of Q-WINC
