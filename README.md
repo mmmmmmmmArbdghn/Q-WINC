@@ -3,7 +3,7 @@ A repository for the quick ui window creator module in roadblocks, since they've
 
 # Qredits
 - `@Fraktality` on GitHub for the "neon" module, for which I have modified to fit to the form factor of Q-WINC
-- The `Roblox DevForum` community from anchient to recent for helping fix stupid and complex things
+- The `Roblox DevForum` community from ancient to recent for helping fix stupid and complex things
 - `Copilot` (the one with the red and blue ribbons), which helps with tons of things (like sounding the tornado alarms about most memory leaks)
 - `Me`, oh no what bug is it this time
 - `Anonymous`, I'm sorry for which I have forgotten 😭 If you've found this, please comment to make me rember 📥😭
