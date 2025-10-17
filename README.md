@@ -26,4 +26,4 @@ A repository for the quick ui window creator module in roadblocks, since they've
 
 # i think i'll add use examples and the doqumentations later
 
-As a starting doc, make sure in Roblox to put everything in the same hierarchy as `Windows.lua` except for itself, to `Windows.lua`. Otherwise, everything explodes.
+As a starting doc, make sure in Roblox to put everything in the same hierarchy as `Windows.lua` except for itself, to `Windows.lua`. Put the `Dark.rbxm` theme in the `Themes` folder because it's the base theme. Otherwise, everything explodes.
