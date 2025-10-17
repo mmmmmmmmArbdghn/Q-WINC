@@ -6,12 +6,13 @@ you can view the pocket spaghetti on the legacy module under (this module) > Leg
 
 this new rewrite of the original module had customizability in mind
 
-you can publish a modified version of this as long as you link the original module page
-	* you can publish custom themes and plugins and link this module's page for quick access
+you can publish a modified version of this, crediting would be really nice
+	* you can publish custom themes and plugins and link this module's page for quick access to what it's used for <--- works well with the roblox marketplace, but idk about github (maybe it has a place to do that that i haven't known of yet)
 
 		DD/MM/YYYY
 version	23/08/2025
 
+*#* these changelogs are made when the module was still distributable in the Roblox marketplace *#*
 changes:
 	-i think i fixed the header double clicking bug
 	-double clicking the header now maximizes the window instead of minimizing it
@@ -1036,4 +1037,5 @@ local window = Windows:create(...)
 local logsPlugin = window:getPlugin("Logs")
 logsPlugin.exitButtonBehavor = 2
 ```
+
 ]]
