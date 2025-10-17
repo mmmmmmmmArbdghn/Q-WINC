@@ -24,6 +24,13 @@ A repository for the quick ui window creator module in roadblocks, since they've
 - RateLimiter by `me` and `Copilot` (i'm too stupid to handle web events), handles limiting request rates so people can't spam APIs
 - Etc. (If I forgot to edit this)
 
-# i think i'll add use examples and the doqumentations later
+# Get started (needs expansion later)
 
 As a starting doc, make sure in Roblox to put everything in the same hierarchy as `Windows.lua` except for itself, to `Windows.lua`. Put the `Dark.rbxm` theme in the `Themes` folder because it's the base theme. Otherwise, everything explodes.
+For the server side, put everything in the same hierarchy as `Server.lua` except for itself, to `Server.lua`. `Server.lua` should be parented to `Windows.lua`.
+
+#### Expected hierarchy:
+
+<img width="186" height="226" alt="image" src="https://github.com/user-attachments/assets/983cb823-cc80-4589-a810-e45802c27932" />
+
+# i think i'll add use examples and the doqumentations later
